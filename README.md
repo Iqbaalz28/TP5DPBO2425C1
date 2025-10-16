@@ -172,7 +172,7 @@ Saya Iqbal Rizky Maulana dengan NIM 2408622 mengerjakan Tugas Praktikum 5 dalam 
 
 - Menambahkan Data Tidak Lengkap
 
-  <img width="538" height="330" alt="image" src="https://github.com/user-attachments/assets/94a44e16-024e-4c4d-8b0d-f7bfb37bcee3" />
+  <img width="719" height="365" alt="image" src="https://github.com/user-attachments/assets/eb3fd259-8aee-4291-a3a1-520bfe68c158" />
 
   <img width="550" height="298" alt="image" src="https://github.com/user-attachments/assets/0d104339-5916-42cf-82d2-921997abffdc" />
 
@@ -180,9 +180,21 @@ Saya Iqbal Rizky Maulana dengan NIM 2408622 mengerjakan Tugas Praktikum 5 dalam 
 
 - Update Data Lengkap
 
-  
-  
+  <img width="576" height="274" alt="image" src="https://github.com/user-attachments/assets/6cd837c2-225c-4fa1-a4b3-c95e8f6962b0" />
+
+  <img width="526" height="203" alt="image" src="https://github.com/user-attachments/assets/dc8f3f02-32d5-43cf-a7f6-edb242494d48" />
+
+  <img width="614" height="114" alt="image" src="https://github.com/user-attachments/assets/774ba2e6-8a41-40ed-a4c6-c6b37c73177a" />
+
 - Update Data Tidak Lengkap
 
+  <img width="531" height="375" alt="image" src="https://github.com/user-attachments/assets/29b4359a-8095-4787-8ccd-c4ba8f7a09c7" />
+
+  <img width="536" height="271" alt="image" src="https://github.com/user-attachments/assets/0306bf12-c22b-406b-ac4e-45b1a18f291c" />
+  
 ### 4. Delete
+
+  <img width="561" height="367" alt="image" src="https://github.com/user-attachments/assets/5c15659e-2bdb-46bf-85f5-a30701da2d99" />
+
+  <img width="549" height="346" alt="image" src="https://github.com/user-attachments/assets/304a5bea-b7a7-412f-b602-faabaac4c2c7" />
 
