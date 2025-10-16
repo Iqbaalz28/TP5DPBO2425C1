@@ -3,6 +3,8 @@ import javax.swing.*;
 import javax.swing.table.DefaultTableModel;
 import java.awt.*;
 import java.awt.event.*;
+import java.text.NumberFormat;
+import java.util.Locale;
 import java.sql.*;
 
 // === CLASS UTAMA ===
@@ -123,14 +125,17 @@ public class ProductMenu extends JFrame {
         try {
             // Ambil data dari tabel product di database
             ResultSet resultSet = database.selectQuery("SELECT * FROM product");
-
-            int i = 1; // Nomor urut
+            // Nomor urut
+            int i = 1;
+            // formatter mata uang
+            NumberFormat rupiahFormat = NumberFormat.getCurrencyInstance(new Locale("id", "ID"));
             while (resultSet.next()) {
                 Object[] row = new Object[6];
                 row[0] = i;
                 row[1] = resultSet.getString("id");
                 row[2] = resultSet.getString("nama");
-                row[3] = resultSet.getDouble("harga");
+                double harga = resultSet.getDouble("harga");
+                row[3] = rupiahFormat.format(harga);
                 row[4] = resultSet.getString("kategori");
                 row[5] = resultSet.getString("kondisi");
                 tmp.addRow(row);
